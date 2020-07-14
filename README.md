@@ -5,6 +5,8 @@
 #### AI
 - [ ] Python
 - [ ] Tensorflow
+- StyleGAN
+- TTS
 #### Functional Programming
 - [ ] Haskell
 #### Front-End
@@ -18,3 +20,9 @@
 #### Geo
 - [ ] GeoJSON
 - [ ] kepler.gl
+### Math
+- Statistics
+  - https://nate9389.tistory.com/1641
+### Linguistics
+- Phonetics
+  - http://www.fonetiks.info/
