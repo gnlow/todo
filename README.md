@@ -1,25 +1,20 @@
-# idea
-Issue tracker for my idea/todos.
-아이디어/할 일을 적어놓는 이슈 트래커.
-
-시키고 싶은 일이 있으면 이슈를 열어주세요.
-
-## Idea Level
-### L0
-- 무작정 이런게 하고싶다.
-- 불가능할지도 모른다.
-### L1
-- 대충 어떤 길로 가야할 지는 알겠다.
-- 구현 가능해 보인다.
-### L2
-- 아이디어가 어느정도 구체화 되었다.
-- 구현하기 위해서 약간의 공부/연구가 필요하다.
-### L3
-- 완성된 아이디어.
-### L4
-- 개발을 시작한 아이디어.
-### L5
-- 개발이 어느정도 진행되었다.
-- 일부 기능을 사용해볼 수 있다.
-### L6
-- 개발 완료.
+# todo
+## [To Do](https://github.com/gnlow/todo/issues)
+## To Learn
+### Dev
+#### AI
+- [ ] Python
+- [ ] Tensorflow
+#### Functional Programming
+- [ ] Haskell
+#### Front-End
+- [x] JS Basic
+- [ ] React
+- [ ] Sass
+- [ ] Pixi
+#### Hobby
+- [ ] Raku
+- [ ] Prolog
+#### Geo
+- [ ] GeoJSON
+- [ ] kepler.gl
