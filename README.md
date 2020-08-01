@@ -15,6 +15,7 @@
 - [ ] Sass
 - [ ] Pixi
 #### Hobby
+- [ ] [Grain](https://grain-lang.org)
 - [ ] Raku
 - [ ] Prolog
 #### Geo
